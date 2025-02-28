@@ -1,0 +1,3 @@
+jalase1 = https://drive.google.com/file/d/14iu6rsbKWJFzwI2EW23GBD06mxiiynLj/view?usp=drive_link
+
+jalase2 = https://drive.google.com/file/d/1VLa4o0tnhpUZ0pYTh9hRgqJiBgiTdM-0/view?usp=drive_link
