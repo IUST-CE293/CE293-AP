@@ -2,6 +2,7 @@ jalase1 = https://drive.google.com/file/d/14iu6rsbKWJFzwI2EW23GBD06mxiiynLj/view
 
 jalase2 = https://drive.google.com/file/d/1VLa4o0tnhpUZ0pYTh9hRgqJiBgiTdM-0/view?usp=drive_link
 
+jalase3 = https://drive.google.com/file/d/1y4pX3SsRZ-VwnUCyzN2GQilh1YefgsD-/view?usp=drive_link
 
 
 web_scrping = https://drive.google.com/file/d/1QTsF5ohZVAqqV0LNJ_jVR32OndZxQQGq/view?usp=sharing
