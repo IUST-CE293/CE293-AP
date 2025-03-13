@@ -1,0 +1,21 @@
+https://webscraper.io/test-sites
+https://w3schools.com/html/default.asp
+
+https://webscraper.io/test-sites/tables
+https://webscraper.io/test-sites/e-commerce/allinone
+
+
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
+https://http.cat/
+
+
+https://httpbin.org/
+https://httpbin.org/post
+
+https://github.com/clarketm/proxy-list/blob/master/proxy-list.txt
+https://proxy-daily.com/
+
+https://pastebin.com >> توی گوگل متن زیر رو سرچ کنید
+site:https://pastebin.com @gmail.com
+https://pastebin.com/d2UfiSPy
